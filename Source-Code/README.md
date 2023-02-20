@@ -1,5 +1,5 @@
 # React workshop
-The contents for a React course for building an OpenAI application that generates a recipe based on ingredients. See the [step-by-step guide](./step-by-step.md) to get started.
+The code is derived from a react worksop with the company Netliight.
 
 ## How to run the app
 The project is divided into two parts, backend and frontend. The backend is located in the `backend` folder, while the frontend is located in the root folder.
